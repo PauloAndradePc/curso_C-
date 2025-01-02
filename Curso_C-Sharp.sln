@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoopsWhile", "LoopsWhile", "{88BEB972-4B41-42C9-8436-3553282D9D23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{76FA251A-7339-46F0-9841-601D7684DBC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoopsDoWhile", "LoopsDoWhile", "{96C72632-3E13-4DBC-BD76-1EB8EAB643A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_DoWhile_", "_DoWhile_\_DoWhile_.csproj", "{16A684A8-FD4B-4A7F-8B4B-F280E78B3854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FA251A-7339-46F0-9841-601D7684DBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FA251A-7339-46F0-9841-601D7684DBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FA251A-7339-46F0-9841-601D7684DBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FA251A-7339-46F0-9841-601D7684DBC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A684A8-FD4B-4A7F-8B4B-F280E78B3854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A684A8-FD4B-4A7F-8B4B-F280E78B3854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A684A8-FD4B-4A7F-8B4B-F280E78B3854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A684A8-FD4B-4A7F-8B4B-F280E78B3854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{76FA251A-7339-46F0-9841-601D7684DBC6} = {88BEB972-4B41-42C9-8436-3553282D9D23}
+		{16A684A8-FD4B-4A7F-8B4B-F280E78B3854} = {96C72632-3E13-4DBC-BD76-1EB8EAB643A7}
+	EndGlobalSection
+EndGlobal

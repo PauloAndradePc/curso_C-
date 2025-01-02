@@ -1,0 +1,14 @@
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\bin\Debug\net9.0\_DoWhile_.exe
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\bin\Debug\net9.0\_DoWhile_.deps.json
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\bin\Debug\net9.0\_DoWhile_.runtimeconfig.json
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\bin\Debug\net9.0\_DoWhile_.dll
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\bin\Debug\net9.0\_DoWhile_.pdb
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\obj\Debug\net9.0\_DoWhile_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\obj\Debug\net9.0\_DoWhile_.AssemblyInfoInputs.cache
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\obj\Debug\net9.0\_DoWhile_.AssemblyInfo.cs
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\obj\Debug\net9.0\_DoWhile_.csproj.CoreCompileInputs.cache
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\obj\Debug\net9.0\_DoWhile_.dll
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\obj\Debug\net9.0\refint\_DoWhile_.dll
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\obj\Debug\net9.0\_DoWhile_.pdb
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\obj\Debug\net9.0\_DoWhile_.genruntimeconfig.cache
+C:\Curso-Sharp\Curso_C-Sharp\_DoWhile_\obj\Debug\net9.0\ref\_DoWhile_.dll
