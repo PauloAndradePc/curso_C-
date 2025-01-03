@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Curso-Sharp\\Curso_C-Sharp\\Application\\Application.csproj",
-      "projectName": "Application",
-      "projectPath": "C:\\Curso-Sharp\\Curso_C-Sharp\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Curso-Sharp\\Curso_C-Sharp\\Crônometro\\Crônometro.csproj",
+      "projectName": "Crônometro",
+      "projectPath": "C:\\Curso-Sharp\\Curso_C-Sharp\\Crônometro\\Crônometro.csproj",
       "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Curso-Sharp\\Curso_C-Sharp\\Application\\obj\\",
+      "outputPath": "C:\\Curso-Sharp\\Curso_C-Sharp\\Crônometro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"

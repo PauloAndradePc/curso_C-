@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoopsWhile", "LoopsWhile", "{88BEB972-4B41-42C9-8436-3553282D9D23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{76FA251A-7339-46F0-9841-601D7684DBC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_While_", "_While_\_While_.csproj", "{76FA251A-7339-46F0-9841-601D7684DBC6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoopsDoWhile", "LoopsDoWhile", "{96C72632-3E13-4DBC-BD76-1EB8EAB643A7}"
 EndProject

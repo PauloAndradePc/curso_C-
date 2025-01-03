@@ -1,0 +1,15 @@
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\obj\Debug\net9.0\Crônometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\obj\Debug\net9.0\Crônometro.AssemblyInfoInputs.cache
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\obj\Debug\net9.0\Crônometro.AssemblyInfo.cs
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\obj\Debug\net9.0\Crônometro.csproj.CoreCompileInputs.cache
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\obj\Debug\net9.0\Crônometro.sourcelink.json
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\bin\Debug\net9.0\Crônometro.exe
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\bin\Debug\net9.0\Crônometro.deps.json
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\bin\Debug\net9.0\Crônometro.runtimeconfig.json
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\bin\Debug\net9.0\Crônometro.dll
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\bin\Debug\net9.0\Crônometro.pdb
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\obj\Debug\net9.0\Crônometro.dll
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\obj\Debug\net9.0\refint\Crônometro.dll
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\obj\Debug\net9.0\Crônometro.pdb
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\obj\Debug\net9.0\Crônometro.genruntimeconfig.cache
+C:\Curso-Sharp\Curso_C-Sharp\Crônometro\obj\Debug\net9.0\ref\Crônometro.dll
